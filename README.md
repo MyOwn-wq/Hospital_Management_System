@@ -20,6 +20,9 @@ A comprehensive web-based system for managing patient records, doctor schedules,
 - **Receptionist**: Patient registration, appointment booking, billing
 - **Patient**: View appointments, bills, medical records
 
+![WhatsApp Image 2025-08-07 at 23 22 39_ec25256f](https://github.com/user-attachments/assets/1a13d110-3a69-4752-9048-1139ab43850d)
+
+
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -212,3 +215,4 @@ For support and questions, please open an issue in the repository.
 ---
 
 **Built with ❤️ for better healthcare management**
+
